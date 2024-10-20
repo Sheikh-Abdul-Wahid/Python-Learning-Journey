@@ -25,7 +25,7 @@ python-learning-journey/
 │ ├── exercises/
 │ │ ├── string_practice.py
 │
-└── ...
+└── 
 
 ## About this Repository
 ------------------------
