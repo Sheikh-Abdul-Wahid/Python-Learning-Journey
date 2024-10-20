@@ -1,14 +1,14 @@
 # Python Learning Journey
 
-## About this Repository
+## About this Repository:
 - This repository documents my Python learning journey.
 - The steps I took to grasp the concepts.
 - The problems that I encountered.
 - How I solved those problems.
 
 
-## Contributions
+## Contributions:
 Feel free to fork, clone, or suggest improvements!
 
-## License
+## License:
 [Insert license information]
