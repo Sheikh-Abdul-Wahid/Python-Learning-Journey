@@ -1,3 +1,4 @@
+```
 # Importing the math module
 import math
 
@@ -5,4 +6,8 @@ import math
 num = 16
 sqrt_num = math.sqrt(num)
 print(f"Square root of {num} is {sqrt_num}")
-
+```
+**Output:**
+```
+Square root of 16 is 4.0
+```
