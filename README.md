@@ -4,7 +4,7 @@
 This repository documents my Python learning journey:
 - The steps I took to grasp the concepts.
 - The problems that I encountered.
-* How I solved those problems.
+- How I solved those problems.
 
 
 ## Contributions
