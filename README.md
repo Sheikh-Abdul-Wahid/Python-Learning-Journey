@@ -1,7 +1,7 @@
 # Python Learning Journey
-==========================
+
 ## Repository Structure
-------------------------
+
 
 python-learning-journey/
 │
@@ -28,10 +28,10 @@ python-learning-journey/
 └── 
 
 ## About this Repository
-------------------------
+
 This repository documents my Python learning journey, covering various topics and concepts.
 ## Contributions
-------------
+
 Feel free to fork, clone, or suggest improvements!
 ## License
 -------
