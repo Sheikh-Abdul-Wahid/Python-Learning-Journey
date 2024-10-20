@@ -7,6 +7,5 @@ sqrt_num = math.sqrt(num)
 print(f"Square root of {num} is {sqrt_num}")
 
 '''
-Output:
-Square root of 16 is 4.0
+OUTPUT: Square root of 16 is 4.0
 '''
