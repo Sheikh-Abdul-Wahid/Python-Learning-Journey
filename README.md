@@ -9,6 +9,3 @@
 
 ## Contributions:
 Feel free to fork, clone, or suggest improvements!
-
-## License:
-[Insert license information]
