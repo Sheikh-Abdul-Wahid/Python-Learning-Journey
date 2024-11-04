@@ -4,4 +4,4 @@ age = 30
 
 print(f"Name: {name}, Age: {age}")
 
-# Output: Name: John Doe, Age: 30
+Output: Name: John Doe, Age: 30
