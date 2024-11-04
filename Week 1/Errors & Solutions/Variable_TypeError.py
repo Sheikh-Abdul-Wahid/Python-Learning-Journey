@@ -3,8 +3,7 @@ b = 2
 c = "Abdul"
 print(a + b + c)
 
-Output:
-TypeError: unsupported operand type(s) for +: 'int' and 'str'
+Output: TypeError: unsupported operand type(s) for +: 'int' and 'str'
 
 Solution: Convert Integers to Strings and then Concatenate
 
