@@ -1,6 +1,5 @@
-Problem: 
-I wrote a program to sort user inputs, but the sort () function treated the inputs as strings instead of numbers, 
-causing incorrect alphabetical sorting."
+** Problem: I wrote a program to sort user inputs, but the sort () function treated the inputs as strings instead of numbers, 
+causing incorrect alphabetical sorting."**
 
 # Create an empty list to store marks
 marks = []
@@ -20,7 +19,7 @@ marks.sort()
 # Print the sorted marks
 print("Marks in sorted order:", marks)
 
-Solution: Use int function while taking input, ensuring each mark was stored as an integer. 
+** Solution: Use int function while taking input, ensuring each mark was stored as an integer.**
 
 # Create an empty list to store marks
 marks = []
