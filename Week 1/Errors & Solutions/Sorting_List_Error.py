@@ -17,7 +17,7 @@ marks.append(m3)  # Add third student's marks to the list
 marks.sort()
 
 # Print the sorted marks
-print("Marks in sorted order:", marks)
+print("Marks: ", marks) # Output: Marks: ['36', '65', '9']
 
 ** Solution: Use int function while taking input, ensuring each mark was stored as an integer.**
 
@@ -38,4 +38,4 @@ marks.append(m3)
 marks.sort()
 
 # Print the sorted marks
-print("Marks in sorted order:", marks)
+print("Marks: ", marks) # Marks: [9, 36, 65]
