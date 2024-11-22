@@ -11,6 +11,13 @@ for word in words:
 with open("file.txt", "w") as f: # Write the updated text back to the file
     f.write(newtext)             # Only the last word gets replaced
 
+'''
+Output:
+Donkey is a herbivorous animal. 
+Donkey is not a ### animal.
+Donkey carries load. 
+'''
+
 # Correct Code:
 
 words = ["Donkey", "Animal", "bad"]
@@ -23,3 +30,9 @@ for word in words:
 
 with open("file.txt", "w") as f: # Write the fully updated text back to the file
     f.write(text)                # All words are replaced properly
+'''
+Output:
+###### is a herbivorous animal. 
+###### is not a ### animal.
+###### carries load. 
+'''
