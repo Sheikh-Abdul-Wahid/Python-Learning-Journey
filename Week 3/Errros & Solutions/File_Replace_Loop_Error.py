@@ -13,7 +13,7 @@ with open("file.txt", "w") as f: # Write the updated text back to the file
 
 '''
 Output:
-Donkey is a herbivorous animal. 
+Donkey is a herbivores animal. 
 Donkey is not a ### animal.
 Donkey carries load. 
 '''
@@ -32,7 +32,7 @@ with open("file.txt", "w") as f: # Write the fully updated text back to the file
     f.write(text)                # All words are replaced properly
 '''
 Output:
-###### is a herbivorous animal. 
+###### is a herbivores animal. 
 ###### is not a ### animal.
 ###### carries load. 
 '''
