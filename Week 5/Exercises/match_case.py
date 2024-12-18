@@ -3,30 +3,6 @@
 # Python lacked a direct equivalent of a switch-case statement, which is common in other languages like C, Java, or JavaScript.
 
 # Replacing Long if-elif Chains:
-# Before:
-
-command = "start"
-if command == "start":
-    print("Starting...")
-elif command == "stop":
-    print("Stopping...")
-elif command == "pause":
-    print("Pausing...")
-else:
-    print("Unknown command")
-
-# After:
-
-match command:
-    case "start":
-        print("Starting...")
-    case "stop":
-        print("Stopping...")
-    case "pause":
-        print("Pausing...")
-    case _:                            
-        print("Unknown command")  # Default case (like 'else')
-
 # Example:
 
 def http_status(status):
