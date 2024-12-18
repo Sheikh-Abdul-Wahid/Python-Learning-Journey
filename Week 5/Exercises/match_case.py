@@ -1,4 +1,5 @@
-# The match-case construct (introduced in Python 3.10) is Python’s version of a pattern matching mechanism. It provides a powerful and expressive way to handle complex conditional logic, often replacing cumbersome if-elif chains.
+# The match-case construct (introduced in Python 3.10) is Python’s version of a pattern-matching mechanism. 
+# It provides a powerful and expressive way to handle complex conditional logic, often replacing cumbersome if-elif chains.
 # Before match-case, handling multiple conditions (especially for structured data) required lengthy if-elif chains, which were less readable and harder to maintain.
 # Python lacked a direct equivalent of a switch-case statement, which is common in other languages like C, Java, or JavaScript.
 
